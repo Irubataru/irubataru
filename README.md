@@ -3,5 +3,5 @@
 
 Hiya! I am a physicist & developer trying to find a place for good quality code in science and research. Always interested in learning new things!
 
-- 💜 I love neovim, awesomeWM, arch linux, and C++
+- 💜 I love neovim, awesomeWM, Arch Linux, and C++
 - 🌱 I am currently learning webdev(vue), lua, rust, and C#
